@@ -1,0 +1,241 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Snapshots - Compare Snapshot of..  Default Props Button 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+  tabindex="0"
+  type="button"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Welcome
+  </span>
+  <span
+    class="MuiTouchRipple-root"
+  />
+</button>
+`;
+
+exports[`Button Snapshots - Compare Snapshot of..  Disabled Outlined Secondary Button 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary Mui-disabled Mui-disabled"
+  disabled=""
+  tabindex="-1"
+  type="button"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Welcome
+  </span>
+</button>
+`;
+
+exports[`Button Snapshots - Compare Snapshot of..  Disabled Primary Button 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary Mui-disabled Mui-disabled"
+  disabled=""
+  tabindex="-1"
+  type="button"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Welcome
+  </span>
+</button>
+`;
+
+exports[`Button Snapshots - Compare Snapshot of..  Disabled Secondary Button 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary Mui-disabled Mui-disabled"
+  disabled=""
+  tabindex="-1"
+  type="button"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Welcome
+  </span>
+</button>
+`;
+
+exports[`Button Snapshots - Compare Snapshot of..  Loading Primary Button 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-contained noOpacity MuiButton-containedPrimary Mui-disabled Mui-disabled"
+  disabled=""
+  tabindex="-1"
+  type="button"
+>
+  <span
+    class="MuiButton-label"
+  >
+    <div
+      class="btnLoader"
+    >
+      <svg
+        class="spinner"
+        viewBox="0 0 100 100"
+      >
+        <defs>
+          <lineargradient
+            id="Gradient"
+            x1="50%"
+            x2="50%"
+            y1="0%"
+            y2="100%"
+          >
+            <stop
+              offset="0%"
+              stop-color="#ffffff"
+            >
+              <animate
+                attributeName="stop-color"
+                dur="4s"
+                repeatCount="indefinite"
+                values="#ffffff; #ffb500; #ffffff"
+              />
+            </stop>
+            <stop
+              offset="100%"
+              stop-color="#ffb500"
+            >
+              <animate
+                attributeName="stop-color"
+                dur="4s"
+                repeatCount="indefinite"
+                values="#ffb500; #ffffff; #ffb500"
+              />
+            </stop>
+          </lineargradient>
+        </defs>
+        <circle
+          class="circle"
+          cx="50"
+          cy="50"
+          fill="none"
+          r="30"
+        />
+      </svg>
+       
+    </div>
+  </span>
+</button>
+`;
+
+exports[`Button Snapshots - Compare Snapshot of..  Outlined Secondary Button 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+  tabindex="0"
+  type="button"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Welcome
+  </span>
+  <span
+    class="MuiTouchRipple-root"
+  />
+</button>
+`;
+
+exports[`Button Snapshots - Compare Snapshot of..  Primary Button 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+  tabindex="0"
+  type="button"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Welcome
+  </span>
+  <span
+    class="MuiTouchRipple-root"
+  />
+</button>
+`;
+
+exports[`Button Snapshots - Compare Snapshot of..  Secondary Button 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary"
+  tabindex="0"
+  type="button"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Welcome
+  </span>
+  <span
+    class="MuiTouchRipple-root"
+  />
+</button>
+`;
+
+exports[`Button Snapshots - Compare Snapshot of..  Text Primary Button 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary"
+  tabindex="0"
+  type="button"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Welcome
+  </span>
+  <span
+    class="MuiTouchRipple-root"
+  />
+</button>
+`;
+
+exports[`Button Snapshots - Compare Snapshot of..  Text Primary Disabled Button 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary Mui-disabled Mui-disabled"
+  disabled=""
+  tabindex="-1"
+  type="button"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Welcome
+  </span>
+</button>
+`;
+
+exports[`Button Snapshots - Compare Snapshot of..  Text Secondary Button 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textSecondary"
+  tabindex="0"
+  type="button"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Welcome
+  </span>
+  <span
+    class="MuiTouchRipple-root"
+  />
+</button>
+`;
+
+exports[`Button Snapshots - Compare Snapshot of..  Text Secondary Disabled Button 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textSecondary Mui-disabled Mui-disabled"
+  disabled=""
+  tabindex="-1"
+  type="button"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Welcome
+  </span>
+</button>
+`;
